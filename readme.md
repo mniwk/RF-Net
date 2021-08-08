@@ -2,7 +2,7 @@ readme.md
 
 # 
 
-The Pytorch implementation for the NeurIPS2019 paper of "[Residual Feedback Network for Breast Lesion Segmentation in Ultrasound Image]()".
+The Pytorch implementation for the MICCAI2021 paper of "[Residual Feedback Network for Breast Lesion Segmentation in Ultrasound Image]()".
 
 ### Citation
 
