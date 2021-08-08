@@ -20,8 +20,8 @@ If you find our project useful in your research, please cite it as follows:
 ## Contents
 
 1. [Introduction](#introduction)
-3. [Usage](#usage)
-4. [Results](#results)
+2. [Dependencies](#Dependencies)
+3. [Results](#results)
 
 ## Introduction
 
@@ -36,7 +36,6 @@ For the more detail, please refer to our paper.
 
 Figure: The overview of our proposed network for lesion segmentation in BUS images.
 
-## Install
 
 ### Dependencies
 
