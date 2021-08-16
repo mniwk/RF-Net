@@ -11,7 +11,7 @@ If you find our project useful in your research, please cite it as follows:
 ```
 @inproceedings{kobayashi2019neurips,
   title={Residual Feedback Network for Breast Lesion Segmentation in Ultrasound Image},
-  author={Ke Wang},
+  author={Ke Wang, Shujun Liang, Yu Zhang},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention.},
   year={2021}
 }
