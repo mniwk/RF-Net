@@ -9,12 +9,26 @@ The Pytorch implementation for the MICCAI2021 paper of "[Residual Feedback Netwo
 If you find our project useful in your research, please cite it as follows:
 
 ```
-@inproceedings{kobayashi2019neurips,
-  title={Residual Feedback Network for Breast Lesion Segmentation in Ultrasound Image},
-  author={Ke Wang, Shujun Liang, Yu Zhang},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention.},
-  year={2021}
+@InProceedings{10.1007/978-3-030-87193-2_45,
+author="Wang, Ke
+and Liang, Shujun
+and Zhang, Yu",
+editor="de Bruijne, Marleen
+and Cattin, Philippe C.
+and Cotin, St{\'e}phane
+and Padoy, Nicolas
+and Speidel, Stefanie
+and Zheng, Yefeng
+and Essert, Caroline",
+title="Residual Feedback Network for Breast Lesion Segmentation in Ultrasound Image",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="471--481",
+isbn="978-3-030-87193-2"
 }
+
 ```
 
 ## Contents
