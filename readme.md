@@ -74,3 +74,8 @@ w -- with pretrain parameters
 2. Chen, L.C., et al.: Rethinking atrous convolution for semantic image segmentation. preprint arXiv:1706.05587 (2017)
 3. Gu, Z., et al.: Ce-net: Context encoder network for 2d medical image segmentation. IEEE transactions on medical imaging 38-10, 2281-2292 (2019)
 4. Zhu, L., et al.: A Second-Order Subregion Pooling Network for Breast Lesion Segmentation in Ultrasound. In: Anne L., Purang A., Danail S. et al. (eds.) MICCAI 2020. LNCS, vol.12266, pp.160-170. Springer, Cham (2020)
+
+
+## Contact
+If you have any question about papers, feel free to mail me :)
+[e-mail](mailto:1228836547@qq.com)
